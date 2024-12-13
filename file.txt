@@ -2,4 +2,4 @@ This is a development branch
 this is the frontend branch comming from the devlopment
 
 
-features1 new featurea under the frontends
+features2 new featurea under the frontends
